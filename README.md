@@ -4,13 +4,6 @@
 
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonata-jackson-555929121/)
 
-<div></br><div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhonata-Jackson&show_icons=true&theme=dark)
-
-<div></br><div>
-
-
 ## **Tecnologias que tenho conhecimento** 💡
 
 <div style="display: inline_block"> </br> 
